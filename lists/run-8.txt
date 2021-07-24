@@ -1,7 +1,7 @@
 Weight	Nested	Procedure	Modality	Level	ITI
-1		TrialProc	electric	2	2.6
-1		TrialProc	electric	6	2.8
-1		TrialProc	electric	5	3.0
-1		TrialProc	electric	3	2.2
-1		TrialProc	pain	4	2.0
-1		TrialProc	electric	2	2.4
+1		TrialProc	electric	3	2.6
+1		TrialProc	electric	5	2.0
+1		TrialProc	pain	5	2.4
+1		TrialProc	electric	2	3.0
+1		TrialProc	electric	3	2.8
+1		TrialProc	pain	6	2.2
