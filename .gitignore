@@ -1,0 +1,7 @@
+*.ini
+*.edat3
+*TCS-*-*.txt
+*.wndpos
+advisor.xsl
+~*.xls*
+*ExperimentAdvisorReport.xml

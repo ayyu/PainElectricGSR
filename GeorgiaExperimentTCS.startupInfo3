@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StartupInfo>
+  <StartupInfoItem itemName="TempBaseline">20</StartupInfoItem>
+  <StartupInfoItem itemName="Temp1">25</StartupInfoItem>
+  <StartupInfoItem itemName="Temp2">30</StartupInfoItem>
+  <StartupInfoItem itemName="Temp3">35</StartupInfoItem>
+  <StartupInfoItem itemName="Temp4">40</StartupInfoItem>
+  <StartupInfoItem itemName="Temp5">45</StartupInfoItem>
+  <StartupInfoItem itemName="Temp6">50</StartupInfoItem>
+  <StartupInfoItem itemName="Serial.CommPort">7</StartupInfoItem>
+</StartupInfo>
