@@ -45,7 +45,9 @@ To check what the current assigned port is, you can use [CoolTerm](https://freew
 10. Close CoolTerm
 11. Enter the noted port (number only) into the `.startupInfo3` file for `Serial.CommPort`
 
-## Conditions
+## Experiment structure
+
+### Conditions
 
 - 2 modalities:
     1. Pain (heat)
@@ -55,15 +57,16 @@ To check what the current assigned port is, you can use [CoolTerm](https://freew
 - 5 trials per condition
 - 5 x 12 = 60 trials total
 
-## Run list requirements 
+### Run list requirements 
 - pseudorandom preset lists
 - 10 runs of 6 trials each
 - rules:
     - first trial of run can't be two highest intensities (can't be 5/6)
     - one consecutive repetition is ok, but not more than twice (AAB, but not AAA)
     - any 2 consecutive trials must not be more than 3 levels apart
+- lists 11 and 12 are dummy lists for practice purposes
 
-## Run structure
+### Run structure
 - 6 trials
     - pre-fixation (5 seconds)
     - stimulus (8 seconds)
